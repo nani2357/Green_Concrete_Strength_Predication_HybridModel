@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+
+nbconvert
+nbformat
+lightgbm
+xgboost
+scikit-learn
+pillow
