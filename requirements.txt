@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-
+pickle5
 nbconvert
 nbformat
 lightgbm
